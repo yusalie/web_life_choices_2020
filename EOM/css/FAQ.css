@@ -1,0 +1,33 @@
+body {
+    background-image: url("../pictures/thumb-1920-593196.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#h {
+    text-align: center;
+}
+
+a {
+    color: gold;
+}
+
+.p {
+    font-size: 35px;
+    color: rgb(125, 135, 153);
+}
+
+.center {
+    text-align: center;
+    background-color: rgb(14, 0, 0, 0.7);
+    margin: auto;
+}
+
+.p2 {
+    font-weight: bold;
+    color: greenyellow;
+}
+
+.p3 {
+    color: gold;
+}
